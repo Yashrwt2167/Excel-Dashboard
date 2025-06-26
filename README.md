@@ -3,4 +3,7 @@ This project is an interactive Excel dashboard created for analyzing and visuali
 <br>
 <img src="https://github.com/Yashrwt2167/Excel-Dashboard/blob/b21c00e51689298046c7e12a2856050f4736b20b/Screenshot%202025-06-09%20210057.png" alt="Image Description" width = "600">
 <br>
+This Excel dashboard shows sales and order trends for Vrinda Store.
+It includes filters for month, category, and channel.
+<br>
 <img src="https://github.com/Yashrwt2167/Excel-Dashboard/blob/7f72f12873641132906dd324261a030bcd61a445/Dashboard%202.png" alt="Image Description" width = "600">
