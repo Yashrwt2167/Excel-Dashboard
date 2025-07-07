@@ -7,3 +7,19 @@ This Excel dashboard shows sales and order trends for Vrinda Store.
 It includes filters for month, category, and channel.
 <br>
 <img src="https://github.com/Yashrwt2167/Excel-Dashboard/blob/7f72f12873641132906dd324261a030bcd61a445/Dashboard%202.png" alt="Image Description" width = "600">
+<br>
+# 📊 Excel Sales Project 3
+
+A clean and interactive sales dashboard made in **Excel** to track:
+
+- Sales by category  
+- Profit trends (2014–2017)  
+- Top customers  
+- Sales by state  
+- Monthly sales  
+- Customer growth
+
+🛠 Tools: Excel, Pivot Tables, Charts, Slicers  
+📁 File: <img src=" " alt="Image Description" width = "600">
+
+Perfect for quick business insights using Excel visuals.
