@@ -20,6 +20,6 @@ A clean and interactive sales dashboard made in **Excel** to track:
 - Customer growth
 
 🛠 Tools: Excel, Pivot Tables, Charts, Slicers  
-📁 File: <img src=" " alt="Image Description" width = "600">
+📁 File: <img src="https://github.com/Yashrwt2167/Excel-Dashboard/blob/41610dc29e37dee83eabb5fab4bf011a6ea964c2/Sales_Data_Image_Project%203.png" alt="Image Description" width = "600">
 
 Perfect for quick business insights using Excel visuals.
