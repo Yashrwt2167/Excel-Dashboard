@@ -36,7 +36,7 @@ This dashboard visualizes key emergency room metrics for a hospital's monthly re
 - ⌛ On-Time Attendance: 61%
 - 🚻 Gender Split: 49% Female | 51% Male
 <br>
-<img src="" alt="Image Description" width = "600">
+<img src="https://github.com/Yashrwt2167/Excel-Dashboard/blob/f6848fb448cb7d7ecf3da200c76d4de502fb8a17/Hosptal%20Dashboard%20Img%20Project%204.png" alt="Image Description" width = "600">
 
 
   
