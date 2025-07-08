@@ -23,3 +23,20 @@ A clean and interactive sales dashboard made in **Excel** to track:
 📁 File: <img src="https://github.com/Yashrwt2167/Excel-Dashboard/blob/41610dc29e37dee83eabb5fab4bf011a6ea964c2/Sales_Data_Image_Project%203.png" alt="Image Description" width = "600">
 
 Perfect for quick business insights using Excel visuals.
+<br>
+# 🏥 Hospital ER Dashboard - January Report
+
+This dashboard visualizes key emergency room metrics for a hospital's monthly report.
+
+## 📊 Highlights
+- 👥 Total Patients: 154
+- ⏱️ Avg. Wait Time: 35.27 mins
+- ⭐ Satisfaction Score: 4.80
+- 🏥 Admitted: 53% | Not Admitted: 47%
+- ⌛ On-Time Attendance: 61%
+- 🚻 Gender Split: 49% Female | 51% Male
+<br>
+<img src="" alt="Image Description" width = "600">
+
+
+  
